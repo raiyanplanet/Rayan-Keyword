@@ -19,5 +19,7 @@ Python 3.x
 Installation:
 
 Clone the repository: git clone https://github.com/raiyanplanet/Rayan-Keyword.git
+
 Navigate to the directory: cd RayanKeyword
+
 Run the script: RayanKeyword.py
